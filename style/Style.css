@@ -1,0 +1,251 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.banner_section {
+  position: relative;
+}
+.main {
+  position: relative;
+}
+
+.banner_pic {
+  position: relative;
+  max-width: 100%;
+
+  margin: 0;
+}
+.nav-logo {
+  position: absolute;
+  left: 0;
+  width: 380px;
+  height: 380px;
+  margin: -136px 0 0 65px;
+}
+
+.nav-list {
+  position: absolute;
+  top: 0;
+  display: inline-flex;
+  left: 0;
+  text-align: center;
+  color: white;
+  margin: 57px 0 0 460px;
+  align-items: center;
+}
+
+ul li {
+  cursor: pointer;
+  font-weight: 750;
+  font-family: arial;
+  padding-left: 20px;
+  text-decoration: none;
+  display: inline-flex;
+}
+.nav-list li:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.shop {
+  position: absolute;
+  top: 0;
+  text-decoration: none;
+  list-style: none;
+  right: 0;
+  color: white;
+  font-family: arial;
+  font-weight: 750;
+  margin: 57px 130px 0px 0px;
+}
+li:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.Intro-section {
+  top: 63%;
+
+  margin: 0 0 0 138px;
+}
+.Intro1-section {
+  position: absolute;
+  color: white;
+  width: 520px;
+  height: 38px;
+  margin: -347px 0 0 14px;
+  font-size: 20px;
+  font-weight: 200;
+  font-family: D-DIN-Regular, Arial, Verdana, sans-serif;
+}
+.Intro2-section {
+  position: absolute;
+  top: 0%;
+  color: white;
+  width: 537px;
+  height: 37px;
+  margin: 568px 0 0 146px;
+  font-size: 50px;
+  font-weight: 790;
+  font-family: Arial, Helvetica, sans-serif;
+  font: bold;
+}
+.custom-button {
+  position: absolute;
+  top: 0%;
+  border: none;
+  cursor: pointer;
+  width: 163px;
+  height: 53px;
+  margin: 662px 0 0 150px;
+  border: solid;
+  background: transparent;
+  border-color: white;
+  color: white;
+  border-radius: 0%;
+  font: 14px D-DIN-bold, arial, verdana, sans-serif;
+}
+.sub {
+  position: relative;
+}
+.second-banner {
+  position: relative;
+}
+.second-banner {
+  position: relative;
+  margin: 0;
+  max-width: 100%;
+}
+.second-banner-image {
+  margin: -4px 0 0 0;
+}
+.second-intro1 {
+  position: absolute;
+  top: 0%;
+  color: white;
+  margin: 522px 0 0 152px;
+  font-size: 20px;
+  font-weight: 200;
+  font-family: D-DIN-Regular, Arial, Verdana, sans-serif;
+}
+.second-intro2 {
+  position: absolute;
+  top: 0%;
+  color: white;
+  margin: 570px 0 0 150px;
+  width: 537px;
+  height: 37px;
+  font-size: 50px;
+  font-weight: 790px;
+  font-family: Arial, Helvetica, sans-serif;
+  font: bold;
+}
+.second-button {
+  position: absolute;
+  top: 0%;
+  border: none;
+  cursor: pointer;
+  border: solid;
+  background: transparent;
+  color: white;
+  width: 163px;
+  height: 53px;
+  margin: 654px 0 0 153px;
+}
+.third-sub {
+  position: relative;
+}
+.third-banner-image {
+  margin: -4px 0 0 0;
+}
+.third-intro1 {
+  position: absolute;
+  top: 0%;
+
+  font-family: D-DIN-Regular, Arial, Verdana, sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+  margin: 466px 0 0 123px;
+  color: white;
+}
+.third-intro2 {
+  position: absolute;
+  top: 0%;
+  width: 377.59px;
+  height: 37px;
+  color: white;
+  margin: 521px 0 0 125px;
+  font-size: 50px;
+  font-weight: 790px;
+  font-family: arial, verdana, sans-serif;
+  font: bold;
+}
+.button1 {
+  position: absolute;
+  top: 0%;
+  border: solid;
+  color: white;
+  cursor: pointer;
+  background: transparent;
+  margin: 654px 0 0 130px;
+  width: 163px;
+  height: 53px;
+}
+.fourth-banner {
+  position: relative;
+}
+.fourth-banner-image {
+  margin: -4px 0 0 0;
+}
+.fourth-intro1 {
+  position: absolute;
+  top: 0%;
+
+  font-family: D-DIN-Regular, Arial, Verdana, sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+
+  color: white;
+  margin: 466px 0 0 123px;
+}
+.fourth-intro2 {
+  position: absolute;
+  top: 0%;
+  width: 377.59px;
+  height: 37px;
+  color: white;
+  margin: 521px 0 0 125px;
+  font-size: 50px;
+  font-weight: 790px;
+  font-family: arial, verdana, sans-serif;
+  font: bold;
+}
+.buttonfour {
+  position: absolute;
+  top: 0%;
+  border: solid;
+  color: white;
+  cursor: pointer;
+  background: transparent;
+  margin: 700px 0 0 126px;
+  width: 163px;
+  height: 53px;
+}
+
+.footer-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: -4px 0 0 0;
+}
+.footer-list {
+  display: inline-flex;
+  color: white;
+}
+
+.footer-nav {
+  position: absolute;
+  height: 80px;
+  width: 100%;
+  background-color: black;
+}
